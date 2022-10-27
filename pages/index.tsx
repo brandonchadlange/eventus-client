@@ -1,4 +1,3 @@
-import { AppShell, Button, Text } from "@mantine/core";
 import { useSession } from "next-auth/react";
 import ApplicationDashboard from "../components/dashboard";
 import HomePage from "../components/home";
